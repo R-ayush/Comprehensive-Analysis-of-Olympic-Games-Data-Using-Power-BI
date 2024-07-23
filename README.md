@@ -3,22 +3,22 @@
 This project involves creating an interactive Power BI dashboard to visualize and analyze comprehensive Olympic Games data. The dashboard integrates data on athlete performances, medal counts, event results, and country statistics. It allows users to explore trends, compare metrics, and gain insights into the history and dynamics of the Olympics.
 
 **Objectives**
-Data Integration and Preparation:
 
-Aggregate and clean data from multiple sources for accuracy.
-Merge datasets to cover various Olympic events comprehensively.
-Dashboard Development:
-
-Design a user-friendly and visually appealing Power BI dashboard.
-Implement visualizations to highlight key metrics like medal counts and performance trends.
-User Interaction and Exploration:
-
-Create interactive filters and elements for detailed data exploration.
-Enable users to drill down into specific countries, sports, or athletes.
-Insight Generation:
-
-Identify and visualize trends such as dominant countries and emerging sports.
-Highlight key Olympic moments and historical achievements.
+**Data Integration and Preparation:**
+    Aggregate and clean data from multiple sources for accuracy.
+    Merge datasets to cover various Olympic events comprehensively.
+    
+**Dashboard Development:**
+    Design a user-friendly and visually appealing Power BI dashboard.
+    Implement visualizations to highlight key metrics like medal counts and performance trends.
+    
+**User Interaction and Exploration:**
+    Create interactive filters and elements for detailed data exploration.
+    Enable users to drill down into specific countries, sports, or athletes.
+    
+**Insight Generation:**
+    Identify and visualize trends such as dominant countries and emerging sports.
+    Highlight key Olympic moments and historical achievements.
 
 **End Users :**
 **Sports Analysts:** Analyze athlete performance and track trends.
