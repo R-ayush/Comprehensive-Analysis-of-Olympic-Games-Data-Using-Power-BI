@@ -21,7 +21,7 @@ This project involves creating an interactive Power BI dashboard to visualize an
     Create interactive filters and elements for detailed data exploration.
     
     Enable users to drill down into specific countries, sports, or athletes.
-    
+
 **Insight Generation:**
 
     Identify and visualize trends such as dominant countries and emerging sports.
@@ -53,4 +53,7 @@ This project involves creating an interactive Power BI dashboard to visualize an
 **Exploring Data:** Use the dashboard to explore different aspects of the Olympic Games data, such as medal counts, athlete performances, and country statistics.
 
 **Interactive Analysis:** Utilize the interactive elements like filters and slicers to focus on specific data points and generate custom insights.
+
 **Trend Identification:** Analyze the visualizations to identify trends and patterns in the Olympic Games history.
+
+**Thank You!**
